@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Product 1",
+        "description": "Description for Product 1",
+        "price": 0.00,
+        "image": "https://drive.google.com/file/d/12XBAOPZgPOyuPulNIYUmMITMxMIxDQtQ/view?usp=drive_link"
+    },
+    {
+        "name": "Product 2",
+        "description": "Description for Product 2",
+        "price": 29.99,
+        "image": "https://drive.google.com/file/d/1wpF2pqL-bmA_NJYfgIe_7BN7mdZpzIGO/view?usp=drive_link"
+    },
+    {
+        "name": "Product 3",
+        "description": "Description for Product 3",
+        "price": 39.99,
+        "image": "https://drive.google.com/file/d/1thtEWDjImKNvTDCMmEScTa2tor32MExF/view?usp=drive_link"
+    },
+    {
+        "name": "Product 3",
+        "description": "Description for Product 3",
+        "price": 39.99,
+        "image": "https://drive.google.com/file/d/1IJ_gdNqd85ltgSaVuDkeDXWz_magIcoN/view?usp=drive_link"
+    },
+    {
+        "name": "Product 3",
+        "description": "Description for Product 3",
+        "price": 39.99,
+        "image": "https://drive.google.com/file/d/1V2Vl8-qloG8KsW2st5cQPYK4adEBKxGX/view?usp=drive_link"
+    }
+]
